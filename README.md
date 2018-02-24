@@ -9,6 +9,8 @@ plot(double[] x, double[] y, int[] groups)
 
 where x and y are the data points, and groups correspond to the group or cluster of each data point. On the plot, the data points corresponding to the same group are drawn with the same color. Different groups have different colors.
 
+https://kyaw.xyz/2017/12/18/2d-scatter-plot-using-javafx
+
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
